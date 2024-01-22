@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function () {
     ["Arco 2 - Despertar", "https://drive.google.com/file/d/1zAqH9d6_r3Y8E8RcgVAYrVbTcq4-CpY0/preview"],
     ["Arco 3 - Mazmorra Instantánea", "https://drive.google.com/file/d/1CiG-bfJheLLSC5V6qQvqVMfG0M3CDnHb/preview"],
     ["Arco 4 - Mazmorras y Lagartos", "https://drive.google.com/file/d/1b-9eZKnPtdnOtqHq6q5FCHtLYQ41uQw9/preview"],
-    ["Arco 5 - Mazmorras y Prisioneros", "https://drive.google.com/file/d/1Mx1W_aCOu333ww3gdKGSQNYXckzfvxZE/preview"],
+    ["Arco 5 - Mazmorras y Prisioneros", "https://mega.nz/file/dn9VQL5D#hniZe5yq4cXIM5ppWCVsQ6PoTll6-oLaBiyvSjc658U"],
     ["Arco 6 - Incursión de Yoo Jin-Ho", "https://drive.google.com/file/d/1IeVWh_JJSKWa-PCsdmxPxJOs1f8NjOF2/preview"],
     ["Arco 7 - Cambio de Trabajo","https://drive.google.com/file/d/1EOvBY3vDwr5nYSpP0eanM1-54KgNStpm/preview"],
     ["Arco 8 - Portal Rojo", "https://drive.google.com/file/d/1kHh5Bfm6j5Av2rv84caVasbSd34StYxn/preview"],
