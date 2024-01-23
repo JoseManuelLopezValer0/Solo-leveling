@@ -74,11 +74,11 @@ document.addEventListener("DOMContentLoaded", function () {
     ],
     [
       "Arco 19",
-      "https://drive.google.com/file/d/1iTnUqyHYVPHJkyHhI5Nk57cQTBqELtiu/preview",
+      "https://drive.google.com/file/d/1U669BqWfMaEclRXQDa-9FSy3Gg8KAl4Y/preview",
     ],
     [
       "Arco 20",
-      "https://drive.google.com/file/d/12d38FjuZ44GkfObtNLDXGyDfhMkm-BaG/preview",
+      "https://drive.google.com/file/d/1NxK8K9d4Nbv1wykISZWED40e0YzLjAHT/preview",
     ],
     [
       "Arco 21",
